@@ -1,0 +1,14 @@
+{
+  "project": "Git_and_GitHub",
+  "owner": "mohammadimrose123",
+  "assignment": "Git & GitHub DevOps Assignment",
+  "apiVersion": 1,
+  "message": "Flask JSON API is working",
+  "features": [
+    "SSH workflow",
+    "branches and merges",
+    "conflict resolution",
+    "To-Do API",
+    "reset and rebase"
+  ]
+}
